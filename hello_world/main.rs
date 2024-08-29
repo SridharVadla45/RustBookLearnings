@@ -1,5 +1,5 @@
 fn main(){
-  printl("Hello Sridhar , Welcome to Rust programming language !")
+  println!("Hello Sridhar , Welcome to Rust programming language !")
 }
 
 
